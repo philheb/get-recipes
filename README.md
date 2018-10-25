@@ -1,6 +1,6 @@
 <h1>Get recipes from an API</h1>
 
-<h3><a href="get-recipes.netlify.com">DEMO HERE</a></h3>
+<h3><a href="https://get-recipes.netlify.com/">DEMO HERE</a></h3>
 
 <p>Pure vanilla Javascipt MVC app with Babel and Webpack using the Recipe API from <a href="https://www.food2fork.com/about/api">Food2Fork</a>.</p>
 
